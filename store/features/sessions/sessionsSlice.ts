@@ -5,7 +5,7 @@ interface Session {
   therapist: string;
   client: string;
   date: string;
-  duration: number;  // in minutes
+  duration: number; // in minutes
   notes?: string;
 }
 
