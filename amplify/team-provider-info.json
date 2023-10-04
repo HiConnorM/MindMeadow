@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mindmeadow-dev-120208-authRole",
+      "UnauthRoleArn": "arn:aws:iam::541995473893:role/amplify-mindmeadow-dev-120208-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::541995473893:role/amplify-mindmeadow-dev-120208-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-mindmeadow-dev-120208-deployment",
+      "UnauthRoleName": "amplify-mindmeadow-dev-120208-unauthRole",
+      "StackName": "amplify-mindmeadow-dev-120208",
+      "StackId": "arn:aws:cloudformation:us-east-2:541995473893:stack/amplify-mindmeadow-dev-120208/17f23cc0-5fb3-11ee-89e9-066b0add9217",
+      "AmplifyAppId": "djypstdib8kga"
+    },
+    "categories": {
+      "auth": {
+        "mindmeadow27a70b5e": {}
+      }
+    }
+  }
+}

@@ -1,4 +1,12 @@
 {
   "name": "MindMeadow",
-  "displayName": "MindMeadow"
+  "displayName": "MindMeadow",
+  "expo": {
+    "name": "MindMeadow",
+    "slug": "MindMeadow",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
 }
